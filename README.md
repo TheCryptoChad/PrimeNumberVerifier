@@ -1,4 +1,4 @@
-# Prime Number Verifier
+# PrimeNumberVerifier
 
 The following python script is intented to take input from the user in the form of a number and print out whether the number is or isn't a prime number.
 
